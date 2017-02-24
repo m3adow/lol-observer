@@ -3,11 +3,12 @@
     "description": "client for riot games League of Legends observer system",
     "author": "Mark Schmale <masch@masch.it>",
     "keywords": ["parser", "client", "league of legends", "gaming"],
+    "version": "0.0.0",
     "dependencies": {
-        "buffer-equal": "0.0.0",
-        "co": "0.0.0",
-        "debug": "0.0.0",
-        "moment": "0.0.0",
-        "request": "0.0.0"
+        "buffer-equal": "",
+        "co": "",
+        "debug": "",
+        "moment": "",
+        "request": ""
     }
 }
